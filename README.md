@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="OSO.jpg" alt="LUCIA Visual Video Prompt Extractor Interface" width="100%">
+</p>
+
+
 # LUCIA | Visual Video Prompt Extractor
 
 A local, privacy-focused video analysis tool that extracts detailed visual prompts using GGUF vision models and CUDA acceleration. It features an optional two-step pipeline that expands visual descriptions using unrestricted (uncensored) text models.
