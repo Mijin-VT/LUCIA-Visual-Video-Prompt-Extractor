@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="OSO.jpg" alt="LUCIA Visual Video Prompt Extractor Interface" width="100%">
+  <img src="OSO.JPG" alt="LUCIA Visual Video Prompt Extractor Interface" width="100%">
 </p>
+
 
 # LUCIA | Visual Video Prompt Extractor
 
