@@ -94,6 +94,9 @@ https://huggingface.co/BlouseJury/DolphinPod_dolphin-2.9.1-llama3.1-8b-Q6_K-GGUF
 Llama-3.2-3B-Instruct-uncensored.f16.gguf
 https://huggingface.co/mradermacher/Llama-3.2-3B-Instruct-uncensored-GGUF/resolve/main/Llama-3.2-3B-Instruct-uncensored.f16.gguf?download=true
 
+“Qwen2.5-VL” (currently one of the best in video)
+https://huggingface.co/lmstudio-community/Qwen2.5-VL-7B-Instruct-GGUF/tree/main
+
 
 ### Step 5: Run INSTALL.bat (Python and Dependencies)
 1. Double-click `INSTALL.bat` in the project root.
