@@ -1,25 +1,15 @@
 Download more uncensored AI based on your PC hardware
 
-https://huggingface.co/mradermacher/Llama-3.2-3B-Instruct-uncensored-GGUF
-https://huggingface.co/BlouseJury/DolphinPod_dolphin-2.9.1-llama3.1-8b-Q6_K-GGUF/tree/main
+
+1- Download and paste the Images folder
+
+Qwen3-VL-8B-Instruct-GGUF
+https://huggingface.co/lmstudio-community/Qwen3-VL-8B-Instruct-GGUF/tree/main
+https://huggingface.co/lmstudio-community/Qwen3-VL-8B-Instruct-GGUF/resolve/main/mmproj-Qwen3-VL-8B-Instruct-F16.gguf?download=true
 
 
-1- Download and paste the models folder
+2- Download and paste the Video folder
 
-llava-v1.6-mistral-7b.Q4_K_M.gguf
-https://huggingface.co/cjpais/llava-1.6-mistral-7b-gguf/blob/main/llava-v1.6-mistral-7b.Q4_K_M.gguf
-
-mmproj-model-f16.gguf
-https://huggingface.co/cjpais/llava-1.6-mistral-7b-gguf/resolve/main/mmproj-model-f16.gguf?download=true
-
-
-2- Download and paste the uncensored folder
-
-dolphin-2.9-llama3-8b-q6_K.gguf
-https://huggingface.co/BlouseJury/DolphinPod_dolphin-2.9.1-llama3.1-8b-Q6_K-GGUF/resolve/main/dolphin-2.9.1-llama3.1-8b-Q6_K.gguf?download=true
-
-Llama-3.2-3B-Instruct-uncensored.f16.gguf
-https://huggingface.co/mradermacher/Llama-3.2-3B-Instruct-uncensored-GGUF/resolve/main/Llama-3.2-3B-Instruct-uncensored.f16.gguf?download=true
-
-“Qwen2.5-VL” (currently one of the best in video)
+“Qwen2.5-VL” (currently one of the best in video) 
 https://huggingface.co/lmstudio-community/Qwen2.5-VL-7B-Instruct-GGUF/tree/main
+https://huggingface.co/lmstudio-community/Qwen2.5-VL-7B-Instruct-GGUF/resolve/main/mmproj-model-f16.gguf?download=true
