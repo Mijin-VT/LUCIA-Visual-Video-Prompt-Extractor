@@ -70,7 +70,7 @@ The application relies on pre-compiled C++ binaries for CUDA acceleration. These
    
 ### Step 4: Download more Video AI based on your PC hardware
 
-1- Download and paste the std::string theme_name = settings.GetString("theme", "glassy_blue"); folder
+1- Download and paste the Images folder
 
 Qwen3-VL-8B-Instruct-GGUF
 https://huggingface.co/lmstudio-community/Qwen3-VL-8B-Instruct-GGUF/tree/main
