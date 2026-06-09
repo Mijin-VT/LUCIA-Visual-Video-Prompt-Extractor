@@ -53,7 +53,7 @@ The application operates in two distinct phases:
    - **Main Model File:** `Qwen2.5-VL-7B-Instruct-Q4_K_M.gguf`
    - **Projector File:** `mmproj-model-f16.gguf`
 3. You can find these files on Hugging Face (huggingface.co) by searching for "Qwen2.5-VL-7B-Instruct-Q4_K_M.gguf".
-4. Place both downloaded files directly inside the `Images` folder.
+4. Place both downloaded files directly inside the `Video` folder.
 
 ### Step 3: Download llama.cpp Binaries
 The application relies on pre-compiled C++ binaries for CUDA acceleration. These must be downloaded from the official repository.
