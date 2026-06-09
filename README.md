@@ -135,22 +135,21 @@ https://huggingface.co/lmstudio-community/Qwen2.5-VL-7B-Instruct-GGUF/resolve/ma
 
 ```
 Ejecutar_Este_Codigo/
-├── app.py                          # Main application script
-├── run.bat                         # Launch script
-── INSTALL.bat                     # Dependencies installer
-├── README.md                       # This documentation
-├── VIDEO.mp4                       # Sample video for testing
-├── models/                         # Vision models folder
-│   ├── llava-v1.6-mistral-7b.Q4_K_M.gguf
+├── app.py                                                    # Main application script
+├── run.bat                                                   # Launch script
+── INSTALL.bat                                                # Dependencies installer
+├── README.md                                                 # This documentation
+├── Images/                                                   # Images folder
+│   ├── Qwen3-VL-8B-Instruct-GGUF                             # Folder
+│   └── Qwen3-VL-8B-Instruct-Q6_K.gguf
+│   └── mmproj-Qwen3-VL-8B-Instruct-F16.gguf
+│
+├── Video/                                                    # Video folder
+│   ├── Qwen2.5-VL-7B-Instruct-GGUF                           # Folder
+│   └── Qwen2.5-VL-7B-Instruct-Q4_K_M.gguf
 │   └── mmproj-model-f16.gguf
-├── uncensored/                     # Uncensored text models folder
-│   ── [your-uncensored-model].gguf
-└── llama-b9022-bin-win-cuda-13.3-x64/  # llama.cpp binaries
-    ├── llama-mtmd-cli.exe
-    ├── llama-cli.exe
-    └── [all .dll files from both archives]
 ```
 
 ## License
 
-This project is provided as-is for educational and research purposes. The underlying models (LLaVA, Mistral, etc.) are subject to their respective licenses. Please review the terms of use for each model before deployment.
+This project is provided as-is for educational and research purposes. The underlying Images (LLaVA, Mistral, etc.) are subject to their respective licenses. Please review the terms of use for each model before deployment.
