@@ -5,7 +5,17 @@
 
 # LUCIA | Visual Video Prompt Extractor
 
-A local, privacy-focused video analysis tool that extracts detailed visual prompts using GGUF vision Images and CUDA acceleration. It features an optional two-step pipeline that expands visual descriptions using unrestricted (Video) text Images.
+LUCIA - Visual Video Prompt Extractor is a local tool designed to extract highly detailed prompts from videos and images.
+
+What does it do?
+It analyzes visual content frame by frame (or by keyframes) and generates extremely detailed and accurate visual descriptions, ready to use as prompts in AI generators (Stable Diffusion, Flux, ComfyUI, Kling, Runway, Luma, etc.).
+Key features:
+
+Extracts rich visual prompts from videos and images.
+Works entirely locally (complete privacy).
+Uses advanced vision models (Qwen-VL) for objective and highly detailed descriptions.
+Option to expand prompts with an LLM to make them more creative and narrative.
+Simple web interface with Streamlit.
 
 ## System Architecture
 
